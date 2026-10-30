@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kogogu-shunju-utaawase",
  "yomi": "こうごうぐうしゅんじゅううたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（九番・春秋）",
+  "era": "天喜4年（1056）4月30日",
+  "author": "主催 後冷泉天皇皇后宮（藤原寛子）／判者 藤原頼宗",
+  "desc": "後冷泉天皇の皇后宮寛子のもとで、春と秋の行事や景物を左右に分けて競わせた九番の歌合。歌撰者は左が頼宗、右が長家で、内大臣頼宗が判をした。伊勢大輔・範永らが詠む。"
+ },
  "editions": [
   {
    "pid": "1879502",
